@@ -1,8 +1,6 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src=<img width="1887" height="795" alt="image" src="https://github.com/user-attachments/assets/5cbc5032-d998-449f-9ce1-7785346bd3b3" />
- />
+  <img src="Screenshot%202026-03-03%20133142.png" width="1200" alt="WheelRank Banner"/>
 </div>
-
 ## Run Locally
 
 **Prerequisites:**  Node.js
